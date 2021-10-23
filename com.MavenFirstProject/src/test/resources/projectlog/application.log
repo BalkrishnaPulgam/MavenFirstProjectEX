@@ -1,0 +1,24 @@
+2021-10-17 17:15:35,379  WARN [main] LoginPageTest:24 - User should use valid driver file
+2021-10-17 17:15:35,383  INFO [main] LoginPageTest:25 - opeining a new chrome browser
+2021-10-17 17:15:44,357  INFO [main] ListenerExWithLog:18 - Test suite is ready to start execution
+2021-10-17 17:15:44,415  INFO [main] ListenerExWithLog:38 - TestCase started with name: test01
+2021-10-17 17:15:44,873  INFO [main] ListenerExWithLog:43 - TestCase passed with name: test01
+2021-10-17 17:15:44,885  INFO [main] ListenerExWithLog:38 - TestCase started with name: test02
+2021-10-17 17:15:46,275  INFO [main] ListenerExWithLog:43 - TestCase passed with name: test02
+2021-10-17 17:15:46,281  INFO [main] ListenerExWithLog:38 - TestCase started with name: test03
+2021-10-17 17:15:46,379  INFO [main] ListenerExWithLog:43 - TestCase passed with name: test03
+2021-10-17 17:15:46,383  INFO [main] ListenerExWithLog:38 - TestCase started with name: test04
+2021-10-17 17:15:46,501  INFO [main] ListenerExWithLog:43 - TestCase passed with name: test04
+2021-10-17 17:15:46,503  INFO [main] ListenerExWithLog:38 - TestCase started with name: test06
+2021-10-17 17:15:47,021  INFO [main] ListenerExWithLog:43 - TestCase passed with name: test06
+2021-10-17 17:15:47,031  INFO [main] ListenerExWithLog:38 - TestCase started with name: test21
+2021-10-17 17:15:47,303  INFO [main] ListenerExWithLog:43 - TestCase passed with name: test21
+2021-10-17 17:15:47,310  INFO [main] ListenerExWithLog:38 - TestCase started with name: test22
+2021-10-17 17:15:47,666  INFO [main] ListenerExWithLog:43 - TestCase passed with name: test22
+2021-10-17 17:15:47,681  INFO [main] ListenerExWithLog:38 - TestCase started with name: test33
+2021-10-17 17:15:54,520  INFO [main] ListenerExWithLog:43 - TestCase passed with name: test33
+2021-10-17 17:15:54,522  INFO [main] ListenerExWithLog:38 - TestCase started with name: test34
+2021-10-17 17:15:55,141  INFO [main] ListenerExWithLog:43 - TestCase passed with name: test34
+2021-10-17 17:15:55,144  INFO [main] ListenerExWithLog:38 - TestCase started with name: test35
+2021-10-17 17:15:55,671  INFO [main] ListenerExWithLog:28 - TestCase failed with name: test35
+2021-10-17 17:15:55,711  INFO [main] ListenerExWithLog:13 - Test suite is finished with execution
